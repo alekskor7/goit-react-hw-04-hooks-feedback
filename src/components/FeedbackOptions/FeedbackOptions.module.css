@@ -1,0 +1,25 @@
+.wrapper {
+  display: flex;
+}
+
+.button {
+  width: 100px;
+  border-radius: 5px;
+  border: 2px solid grey;
+  padding: 10px;
+  margin-right: 10px;
+}
+
+.button:hover {
+  cursor: pointer;
+}
+
+.good {
+  background-color: rgb(124, 241, 124);
+}
+.neutral {
+  background-color: transparent;
+}
+.bad {
+  background-color: rgb(241, 124, 124);
+}

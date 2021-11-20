@@ -1,0 +1,13 @@
+.description {
+  width: 300px;
+  padding: 10px;
+  margin: 5px 0;
+  font-weight: 500;
+  background-color: transparent;
+}
+.good {
+  background-color: rgb(124, 241, 124);
+}
+.bad {
+  background-color: rgb(241, 124, 124);
+}
